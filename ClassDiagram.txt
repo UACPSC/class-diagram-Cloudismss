@@ -1,1 +1,1 @@
-[Student |-age:unlimitedNatural; -height:Real; -name:String|]
+[Student |-age:unlimitedNatural; -height:Real; -name:String; -classCount:Integer|]
